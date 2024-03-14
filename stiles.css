@@ -1,0 +1,28 @@
+body{
+    background-color: floralwhite;
+}
+header{
+    background-color: lightcoral;
+    font-family: cursive;
+    text-align: center;
+}
+h3,h4{
+    font-family: cursive;
+}
+section{
+    text-align: center;
+    width: 800px;
+}
+aside{
+    background-color: lavenderblush;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+}
+#contacto{
+    text-align: right;
+}
+#contenido{
+    display: flex;
+    flex-wrap: wrap;
+}
